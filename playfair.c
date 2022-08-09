@@ -1,4 +1,4 @@
-// author : Siddharth Mani Tiwari : 201851126
+
 
 // code was written assuming j and i to be same
 // if there is repetition, 'x' has been replaced
