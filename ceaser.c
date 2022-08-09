@@ -1,4 +1,3 @@
-// author : Siddharth Mani Tiwari : 201851126
 #include <stdio.h>
 #include <stdlib.h>
 
