@@ -1,6 +1,4 @@
-/*
-    @Siddharth Mani Tiwari 201851126
-*/
+
 #include <math.h>
 #include <stdbool.h>
 #include <stdio.h>
